@@ -1,2 +1,2 @@
 # EJBLearnings
-Created this repository for learnings
+Repository for learnings
